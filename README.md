@@ -1,0 +1,1 @@
+# stockrp-resourcepack
